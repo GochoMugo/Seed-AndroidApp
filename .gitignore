@@ -1,0 +1,32 @@
+# Adapted from https://github.com/github/gitignore
+
+# Java class files
+*.class
+
+# Files for Andoid's Dalvik VM
+*.dex
+
+# Built Application Files
+*.ap[k_]
+
+# Gradle files
+.gradle/
+
+# Gradle build directory
+build/
+
+# Gradle GUI config
+gradle-app.setting
+
+# Generated files
+bin/
+gen/
+
+# Log files
+*.log
+
+# Local Configuration files
+local.properties
+
+# Eclipse-generated Proguard folder
+proguard/
